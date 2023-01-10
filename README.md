@@ -5,9 +5,10 @@ Functional libraries are never quite what I'm looking for, either they don't aut
 
 ### TODO
 
-1. Convert all JS's most useful higher order functions to functional ones
-2. Make constructors for other containers, from Sanctuary and Folktale
-3. Make a JSX-like component syntax that doesn't require compilers (like Babel...yuk)
+1. Make a `component` function that easily renders a html component from a string
+2. Convert all JS's most useful higher order functions to functional ones
+3. Make constructors for other containers, from Sanctuary and Folktale
+4. Make a JSX-like component syntax that doesn't require compilers (like Babel...yuk)
 
 ## Ideas
 It could be cool if you could **compose** components together and treat them like their own type of container.
